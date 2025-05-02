@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parzival-xol/parzival-xol/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/zs5xbpdgt8qgasjj1kcf3c7vk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zs5xbpdgt8qgasjj1kcf3c7vk&count=5&unique=false" alt="Spotify recently played"  />
